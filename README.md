@@ -6,7 +6,7 @@ It uses AWS and ReactJS.
 
 ## Technologies used for this portfolio (so far)
 
-Brew
-Git and github
-Atom
-SSH
+Brew  
+Git and github  
+Atom  
+SSH  
