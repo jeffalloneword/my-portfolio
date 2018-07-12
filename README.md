@@ -10,3 +10,7 @@ Brew
 Git and github  
 Atom  
 SSH  
+HTML    
+CSS  
+Font Awesome  
+Google Fonts  
