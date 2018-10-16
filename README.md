@@ -14,3 +14,11 @@ HTML
 CSS  
 Font Awesome  
 Google Fonts  
+
+AWS
+----
+IAM
+S3
+Route 53
+CloudFront
+SSL
